@@ -79,6 +79,8 @@ nlu:
     - so sad
     - wuaaaaa
     - hajajajaja
+    - bad
+    - horrific
 - intent: bot_challenge
   examples: |
     - are you a bot?
