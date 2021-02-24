@@ -15,6 +15,7 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - okiiii
 - intent: goodbye
   examples: |
     - good afternoon
@@ -80,6 +81,7 @@ nlu:
     - wuaaaaa
     - hajajajaja
     - whataaaaap
+    - suuuup
 - intent: bot_challenge
   examples: |
     - are you a bot?
