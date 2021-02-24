@@ -28,6 +28,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - good
 - intent: affirm
   examples: |
     - yes
@@ -36,6 +37,7 @@ nlu:
     - of course
     - that sounds good
     - correct
+    - okiiii
 - intent: deny
   examples: |
     - no
@@ -45,6 +47,7 @@ nlu:
     - don't like that
     - no way
     - not really
+    - nsh
 - intent: mood_great
   examples: |
     - perfect
@@ -79,6 +82,10 @@ nlu:
     - so sad
     - wuaaaaa
     - hajajajaja
+    - whaaaaaaaatup
+    - bad
+    - whataaaaap
+    - suuuup
 - intent: bot_challenge
   examples: |
     - are you a bot?
