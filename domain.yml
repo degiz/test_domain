@@ -19,6 +19,8 @@ intents:
     use_entities: true
 - bot_challenge:
     use_entities: true
+entities:
+- test
 slots: {}
 responses:
   utter_greet:
@@ -34,3 +36,8 @@ responses:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
+  utter_hii:
+  - text: Hello
+actions: []
+forms: {}
+e2e_actions: []
