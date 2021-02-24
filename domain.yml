@@ -36,8 +36,6 @@ responses:
   - text: Bye
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
-  utter_hii:
-  - text: Hello
 actions: []
 forms: {}
 e2e_actions: []
