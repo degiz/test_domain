@@ -28,6 +28,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - good
 - intent: affirm
   examples: |
     - yes
@@ -79,6 +80,7 @@ nlu:
     - so sad
     - wuaaaaa
     - hajajajaja
+    - bad
 - intent: bot_challenge
   examples: |
     - are you a bot?
