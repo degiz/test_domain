@@ -1,0 +1,15 @@
+forms:
+  form_1:
+    required_slots:
+      b_slot:
+        - type: from_entity
+          entity: number
+          role: from
+      a_slot:
+        - type: from_entity
+          entity: number
+          role: from
+      c_slot:
+        - type: from_entity
+          entity: number
+          role: from
