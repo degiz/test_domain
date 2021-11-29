@@ -1,0 +1,12 @@
+responses:
+  utter_greet:
+    - condition:
+        - type: slot
+          name: is_new_user
+          value: true
+      text: "Thank you for signing up! What do you need help with?"
+    - condition:
+        - type: slot
+          name: is_new_user
+          value: false
+      text: "Welcome back! What do you need help with?"
